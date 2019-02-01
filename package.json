@@ -1,0 +1,17 @@
+{
+  "name": "uppp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-cache-inmemory": "^1.4.2",
+    "apollo-server-express": "^2.3.3",
+    "express": "^4.16.4",
+    "graphql": "^14.1.1"
+  }
+}
